@@ -1,0 +1,80 @@
+.reservation-container {
+  
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .reservation-container h2{
+    margin-bottom: 10px;
+  }
+  .res-div{
+    border: 1px solid black;
+    padding: 10px;
+    
+  }
+  .reservation-form {
+    
+    width: 100%;
+    display: flex;
+    gap: 3rem;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    /* display: flex; */
+    /* flex-direction: column; */
+  }
+  .reservation-form div{
+    display: flex;
+    gap: 2rem;
+    margin-top: 5px;
+  }
+  .btn-library{
+    width: 10%;
+    margin-top: -20px;
+  }
+  
+  .reservation-form label {
+    /* display: block; */
+    margin-top: 6px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .reservation-form select {
+    width: 135%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  .available-items h3{
+    margin-top: 5rem;
+    text-decoration: underline;
+  }
+  .available-items-table {
+    width: 100%;
+    margin-top: 1rem;
+    border-collapse: collapse;
+  }
+  
+  .available-items-table th, .available-items-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .available-items-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .available-items-table td button {
+    padding: 5px 10px;
+    background-color: rgb(5, 75, 5);
+    width: auto;
+    float: left;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .available-items-table td button:hover {
+    background-color: #0056b3;
+  }
+  

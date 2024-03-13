@@ -1,0 +1,51 @@
+.dashboard{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+
+}
+.uni-info{
+    display: flex;
+    flex-direction: column;
+}
+.student-name{
+    background-color: #1a5c6c;
+    padding: 4px;
+    height: 40px;
+    color: white;
+    border-radius: 2px;
+    /* margin-bottom: 4px; */
+    width: 99%;
+}
+.dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-radius: 2px;
+    
+    
+}
+.dashboard table th{
+    background-color: #1a5c6c;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+    padding: 2px;
+}
+.dashboard  table tr{
+    height: 30px;
+}
+.dashboard  table tr td{
+    border: 1px solid black;
+    padding: 2px;
+}
+.student-info{
+    margin-top: 2rem;
+    width: 100%;
+    margin-left: -5px;
+}
+.other-info{
+    margin-top: 2rem;
+}

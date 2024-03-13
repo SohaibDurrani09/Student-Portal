@@ -1,0 +1,47 @@
+.registration-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    
+  }
+  .registration-form{
+    margin-top: 1rem;
+  }
+  .registration-form .form-column {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  
+  
+  .form-column label {
+    display: block;
+    margin-top: 5px;
+    width: 20%;
+  }
+  
+  .form-column input {
+    width: 40%;
+    padding: 8px;
+    margin-bottom: 15px;
+    margin-right: 5rem;
+  }
+  
+  .vehicle-image-preview {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .save-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .save-button:hover {
+    background-color: #0056b3;
+  }
+  
