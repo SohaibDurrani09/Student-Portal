@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student-portal/static/css/main.f2bfdaf0.css",
+    "main.js": "/student-portal/static/js/main.d4cd77b1.js",
+    "static/js/453.0752497c.chunk.js": "/student-portal/static/js/453.0752497c.chunk.js",
+    "static/media/uni-logo.png": "/student-portal/static/media/uni-logo.f42347f3092e2f4d2047.png",
+    "index.html": "/student-portal/index.html",
+    "main.f2bfdaf0.css.map": "/student-portal/static/css/main.f2bfdaf0.css.map",
+    "main.d4cd77b1.js.map": "/student-portal/static/js/main.d4cd77b1.js.map",
+    "453.0752497c.chunk.js.map": "/student-portal/static/js/453.0752497c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2bfdaf0.css",
+    "static/js/main.d4cd77b1.js"
+  ]
+}
